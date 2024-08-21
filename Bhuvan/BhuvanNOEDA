@@ -1,0 +1,165 @@
+Website - Bhuvan NOEDA Data Products
+Website URL - https://bhuvan-app1.nrsc.gov.in/2dresources/bhuvanstore.php
+Website Content Details -
+this website has access to datasets (like a resources store) provided by ISRO as below listed 
+Bhuvan NOEDA Data Products
+
+Satellite Products
+S.No.	Product	Resolution	Data Availability	Frequency	Coverage
+Tile Extent/Spatial Extent	File Size/
+Download (approx.)
+Start Period	Latest Period
+1	Cartosat-1:DEM - Version-1	1 arc Sec (~ 32 m)	2006	2008	Single	India: 1°X1°	8 - 11MB
+2	Cartosat-1:DEM - Version 1.1R1	1 arc Sec (~ 32 m)	2008	2012	Single	India: 1°X1°	8 - 11MB
+3	Cartosat-1:DEM - Version-2R1	1 arc Sec (~ 32 m)	2005	2014	Single	India: 1°X1°	8 - 16MB
+4	Cartosat-1:DEM - Version-3R1	1 arc Sec (~ 32 m)	2005	2014	Single	India: 1°X1°	8 - 16MB
+5	IMS-1:Hyper spectral Imager	Spectral Binned Data (17 bands)	2011	2012	Single	India: Scene Based	2 - 3MB
+6	Resourcesat-1/Resourcesat-2:AWiFS Ortho	56 m	Dec-2009	Nov-2019	3 times/year (8 times/year - 2016 onwards)	India: 1°X1°	16 - 18MB
+7	Resourcesat-1/Resourcesat-2:LISS III Ortho	24 m	Oct-2009	May-2019	2 times/year	India: 15'X15'	2 - 3MB
+
+
+Terrestrial Sciences Products
+S.No.	Product	Resolution	Data Availability	Frequency	Coverage
+Tile Extent/Spatial Extent	File Size/
+Download (approx.)
+Start Period	Latest Period
+1	Annual Cropland Data set	5Km x 5Km	2005-06	2013-14	Yearly	-10° - 45.5° N; 44.5° E - 105.5° E	200 - 300KB
+2	AWiFS: Snow Albedo	250m	01-Jan-2015	12-Dec-2023	4 cycles/month	India	3 - 5MB
+3	AWiFS: Water Bodies Fraction	3' X 3' Grid	Oct-2004	Oct-2023	Fortnight	India	0.5MB
+4	Forest Fire Regime (3 Parameters)	5Km x 5Km	2003	2017	Yearly	05° - 40° N; 50° E - 110° E	150 - 250KB
+5	Forest Fraction Cover	5Km x 5Km	1930, 1975, 2013		Yearly	05° - 40° N; 50° E - 110° E	450 - 550KB
+6	Forest Type 5Km grid (14 Parameters)	5Km x 5Km	2013		Single	05° - 40° N; 50° E - 110° E	30 - 300KB
+7	Hydrological Products	0.15°, 0.05°	01-Jan-2014	11-Jan-2022		India	
+8	Indian Soil Datasets (3 Parameters)	5Km x 5Km			Single	-10° - 45.5° N; 44.5° E - 105.5° E	40 - 200KB
+9	Land Degradation (4 Parameters)	5Km x 5Km			Single	-10° - 45.5° N; 44.5° E - 105.5° E	30 - 200KB
+10	Mesoscale compatible inputs for: MM5	30 seconds, 2 minutes, 5 minutes	2004-05	2018-19	Yearly	90° S - 90° N; 180° W - 180° E	10 - 30MB
+11	Mesoscale compatible inputs for: WRF	30 seconds, 2 minutes, 5 minutes	2004-05	2018-19	Yearly	0° N - 40° N; 60° E - 100° E	2MB
+12	Net Ecosystem Productivity - GIMMS	2'x2'			Single	India	300MB
+13	Net Ecosystem Productivity - MODIS	2'x2'			Single	India	270MB
+14	Net Primary Productivity - GIMMS	2'x2'			Single	India	300MB
+15	Net Primary Productivity - MODIS	2'x2'			Single	India	270MB
+16	OCM2: Albedo	1 Km	Jan-2013	Dec-2021	Fortnight	India	4 - 6MB
+17	OCM2: Filter Normalized Difference Vegetation Index	1 Km	Jan-2012	Jun-2021	Fortnight	India	4 - 6MB
+18	OCM2: Normalized Difference Vegetation Index - Global Coverage	8 Km	Jun-2013	Sep-2019	Monthly	Global Coverage	2 - 3MB
+19	OCM2: Normalized Difference Vegetation Index - Local Coverage	1 Km	Jan-2011	Dec-2021	Fortnight	India	4 - 6MB
+20	OCM2: Vegetation Fraction	1 Km	Jan-2011	Dec-2021	Fortnight	India	4 - 6MB
+21	OCM: Surface Water Layer Products_2Day Repeativity	0.0032 deg	Nov-2013	Feb-2016	2 Days	India	600KB
+22	Surface Soil Moisture - 2 Day	0.25X0.25 degree grid	Jul-2002	19-Dec-2023	2 days	India	50KB
+
+
+Ocean Sciences Products
+S.No.	Product	Resolution	Data Availability	Frequency	Coverage
+Tile Extent/Spatial Extent	File Size/
+Download (approx.)
+Start Period	Latest Period
+1	Chlorophyll - OC2 - Global	4Km	Jan-2011	Dec-2020	8 Day, Monthly	90° S - 90° N; 0° E - 360° E	30MB
+2	Chlorophyll - OC2 - North indian ocean	1Km	Jan-2010	Mar-2020	2 Day, 8 Day, Monthly	0° N - 30° N; 45° E - 100° E	15MB
+3	Chlorophyll - OC4 - Global	4Km	Jan-2011	Dec-2020	8 Day, Monthly	90° S - 90° N; 0° E - 360° E	30MB
+4	Chlorophyll - OC4 - North indian ocean	1Km	Jan-2010	Mar-2020	2 Day, 8 Day, Monthly	0° N - 30° N; 45° E - 100° E	15MB
+5	Co-Tidal Map (K1O1) Amplitude-Phase	2'x2'			Single	5.5° N - 24° N; 68° E - 89.5° E	1MB
+6	Co-Tidal Map (M2S2) Amplitude-Phase	2'x2'			Single	5.5° N - 24° N; 68° E - 89.5° E	1MB
+7	Daily Ocean Heat Content of 700m Layer	0.25°	01-Jan-2002	till date (-7 days)	Daily	North Indian Ocean (30S - 30N; 30-120E )	0.5 - 1MB
+8	Daily Ocean Mean Temperature & Heat Content of Different Layers	0.25°	01-Jan-1998	till date (-7 days)	Daily	30° S - 30° N; 30° E - 120° E	2MB
+9	Daily Tropical Cyclone Heat Potential	0.25°	01-Jan-1998	till date (-7 days)	Daily	North Indian Ocean (30S - 30N; 30-120E )	0.5MB
+10	Diffuse Attenuation Coefficient at 490 nm - Global	4Km	Jan-2011	Dec-2020	8 Day, Monthly	90° S - 90° N; 0° E - 360° E	30MB
+11	Diffuse Attenuation Coefficient at 490 nm - North Indian ocean	1Km	Jan-2010	Mar-2020	2 Day, 8 Day, Monthly	0° N - 30° N; 45° E - 100° E	15MB
+12	Dissolved Inorganic Carbon	25Km	01-Jan-2014	15-Jan-2018	7 Day	90° S - 90° N; 0° E - 360° E	10MB
+13	Eddy Kinetic Energy	0.25° X 0.25°	Jan-1993	Jun-2023	Monthly	30° S - 30° N; 40° E - 110° E	200KB
+14	Eddy Kinetic Energy - Daily	0.25° X 0.25°	01-Jan-1993	11-Jul-2023	Daily	30° S - 30° N; 40° E - 110° E	400KB
+15	Ekman Currents - Global	50Km	01-Apr-2013	24-Sep-2020	Daily	90° S - 90° N; 0° E - 360° E	3MB
+16	Ekman Currents - Indian Ocean	0.25° X 0.25°	01-Apr-2013	21-Feb-2014	Daily	30° S - 30° N; 30° E - 120° E	2MB
+17	EOS-06 OCM-3 Ocean Chlorophyll (OC4) Global	4KM	Apr 2023	Till Date	Daily,8 Day, Monthly	90° S - 90° N; 0° E - 360° E	6MB, 20MB, 25MB
+18	Geostrophic Currents - Global	25Km	01-Apr-2013	24-Sep-2020	Daily	90° S - 90° N; 0° E - 360° E	2MB
+19	Geostrophic Currents - Indian Ocean	0.25° X 0.25°	01-Apr-2013	08-May-2014	Daily	30° S - 30° N; 30° E - 120° E	2MB
+20	Mean Sea Level Anomaly	0.33° X 0.33°	Jan-1993	Dec-2011	Monthly	10° S - 30° N; 40° E - 110° E	200KB
+21	Model Derived Depth of 26°C ISOTHERM	0.5° x 0.5°	11-Jul-2013	till date (-15 days)	Daily	30° S - 30° N; 30° E - 120° E	0.5MB
+22	Model Derived Tropical Cyclone Heat Potential	0.5° x 0.5°	11-Jul-2013	till date (-15 days)	Daily	30° S - 30° N; 30° E - 120° E	0.5MB
+23	OSCAT Ocean Wind - 25Km	25Km	07-Jan-2010	29-Jan-2014	Daily	90° S - 90° N; 0° E - 360° E	2MB
+24	OSCAT Ocean Wind - 50Km	0.5° x 0.5°	02-Jan-2010	01-Jan-2014	Daily	90° S - 90° N; 0° E - 360° E	2MB
+25	OSCAT Ocean Wind Curl - 25Km	25Km	07-Jan-2010	29-Jan-2014	Daily	90° S - 90° N; 0° E - 360° E	2MB
+26	OSCAT Ocean Wind Curl - 50Km	0.5° x 0.5°	02-Jan-2010	01-Jan-2014	Daily	90° S - 90° N; 0° E - 360° E	2MB
+27	OSCAT Ocean Wind Stress - 25Km	25Km	07-Jan-2010	29-Jan-2014	Daily	90° S - 90° N; 0° E - 360° E	2MB
+28	OSCAT Ocean Wind Stress - 50Km	0.5° x 0.5°	02-Jan-2010	01-Jan-2014	Daily	90° S - 90° N; 0° E - 360° E	2MB
+29	SCATSAT Ocean Wind - 25Km	25Km	17-Oct-2016	26-Oct-2020	Daily	90° S - 90° N; 0° E - 360° E	20MB
+30	SCATSAT Ocean Wind - 50Km	50Km	03-Nov-2016	27-Oct-2020	Daily	90° S - 90° N; 0° E - 360° E	5MB
+31	SCATSAT Ocean Wind Curl - 25Km	25Km	17-Oct-2016	26-Oct-2020	Daily	90° S - 90° N; 0° E - 360° E	20MB
+32	SCATSAT Ocean Wind Curl - 50Km	50Km	03-Nov-2016	27-Oct-2020	Daily	90° S - 90° N; 0° E - 360° E	5MB
+33	SCATSAT Ocean Wind Stress - 25Km	25Km	17-Oct-2016	26-Oct-2020	Daily	90° S - 90° N; 0° E - 360° E	20MB
+34	SCATSAT Ocean Wind Stress - 50Km	50Km	03-Nov-2016	27-Oct-2020	Daily	90° S - 90° N; 0° E - 360° E	5MB
+35	SCATSAT Sea Level Pressure	0.5° x 0.5°	11-Oct-2016	01-Mar-2021	Daily	Global Oceans	1MB
+36	Sea Level Pressure	50Km	01-Feb-2010	30-Jan-2014	Daily	90° S - 90° N; 0° E - 360° E	1MB
+37	Sea Surface Height - Global	25Km	01-Apr-2013	24-Sep-2020	Daily	90° S - 90° N; 0° E - 360° E	2MB
+38	Sea Surface Height - Indian Ocean	0.25° X 0.25°	01-Apr-2013	21-Feb-2014	Daily	30° S - 30° N; 30° E - 120° E	1MB
+39	Total Alkalinity	25Km	01-Jan-1992	03-Jan-2018	Weekly	90° S - 90° N; 0° E - 360° E	10MB
+40	Total Currents - Global	25Km	01-Apr-2013	24-Sep-2020	Daily	90° S - 90° N; 0° E - 360° E	3MB
+41	Total Currents - Indian Ocean	0.25° X 0.25°	01-Apr-2013	21-Feb-2014	Daily	30° S - 30° N; 30° E - 120° E	1MB
+
+
+Atmospheric and Climate Sciences Products
+S.No.	Product	Resolution	Data Availability	Frequency	Coverage
+Tile Extent/Spatial Extent	File Size/
+Download (approx.)
+Start Period	Latest Period
+1	Atmospheric CO2				Single	Seven Stations	NA
+2	Cloud Cover(V2)-INSAT-3D 4KM	0.10° x 0.10° , 0.25° x 0.25°	11-Jan-2018	14-June-2023	Half-Hourly	Indian Sub-continent (-10° - 45.5° N; 44.5° E - 105.5° E)	2 - 4MB
+3	Cloud Fraction and Cloud Cover	0.10° x 0.10° , 0.25° x 0.25°	01-Sep-2008	16-Jan-2021	Half-Hourly	Indian Sub-continent (-10° - 45.5° N; 44.5° E - 105.5° E)	2 - 4MB
+4	Cloud Fraction & Cover(V1)-INSAT3D-25Km	0.10° x 0.10° , 0.25° x 0.25°	01-Oct-2016	15-Jan-2021	Half-Hourly	Indian Sub-continent (-10° - 45.5° N; 44.5° E - 105.5° E)	2 - 4MB
+5	Cloud Fraction & Cover(V1)-Kalpana1	0.10° x 0.10° , 0.25° x 0.25°	01-Sep-2008	15-Sep-2021	Half-Hourly	Indian Sub-continent (-10° - 45.5° N; 44.5° E - 105.5° E)	2 - 4MB
+6	Cloud Top Temperature-INSAT3D-25Km	0.10° x 0.10° , 0.25° x 0.25°	01-Jan-2018	16-Jun-2023	Half-Hourly	Indian Sub-continent (-10° - 45.5° N; 44.5° E - 105.5° E)	2 - 4MB
+7	Cloud Top Temperature-INSAT3D-50Km	0.10° x 0.10° , 0.25° x 0.25°	26-May-2022	16-Jun-2023	Half-Hourly	Indian Sub-continent (-10° - 45.5° N; 44.5° E - 105.5° E)	2 - 4MB
+8	Derived Tropospheric Ozone	1° x 1°	01-Jan-2010	13-Mar-2022	Daily	0° - 40° N; 60° E - 100° E	500KB
+9	Planetary Boundary Layer Height (Daily, 7 Day, Monthly)	0.25° x 0.25°	01-Sep-2014	01-Sep-2021	Daily	05° - 40° N; 50° E - 110° E	200 - 300KB
+
+
+Cryospheric Products Products
+S.No.	Product	Resolution	Data Availability	Frequency	Coverage
+Tile Extent/Spatial Extent	File Size/
+Download (approx.)
+Start Period	Latest Period
+1	AWiFS: Snow Cover Fraction	3' X 3' Grid	Jan-2012	Nov-2023	Fortnight	Himalaya Region	100KB
+2	Snow Melt and Freeze	2.225 degree	Jan-2000	Dec-2018	2 Day	Himalaya Region	20KB
+3	Snowmelt Antarctica	2.225 degree	02-Nov-2001	26-Feb-2021	Daily	Antarctica	150KB
+
+
+ISRO Geosphere Biosphere Programme Products
+S.No.	Product	Resolution	Data Availability	Frequency	Coverage
+Tile Extent/Spatial Extent	File Size/
+Download (approx.)
+Start Period	Latest Period
+1	Above Ground Biomass (AGB) Data				Single	Four Stations	NA
+
+
+Bhuvan Thematic Services
+
+S.No.	Theme	Scale	Availability	Features	Webservices (WMS/WMTS) URL's	Datasets/Products/Reports Available
+1	Land Use Land Cover	1:50000	2005-06	Metadata, Analaysis, Statistics	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document , Map
+2	Land Use Land Cover	1:50000	2011-12	Metadata, Analysis, Statistics	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document
+3	Land Use Land Cover	1:50000	2015-16	Metadata, Analysis, Statistics	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document
+4	Land Use Land Cover	1:250000	2004-05, 2005-06, ..., 2022-23	Metadata, Statistics	WMS: "https://bhuvan-ras2.nrsc.gov.in/cgi-bin/LULC250K.exe"	Data for Download , Technical Document , Map
+5	Land Use Land Cover: SIS-DP	1:10000	637 Districts	Visualization	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/sisdpv2/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/sisdpv2/wms"	-
+6	Land Use Land Cover: SIS-DP Phase2	1:10000	14 States (2018-23)	Visualization	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Data Download
+7	Land Degradation	1:50000	2005 - 2006	Metadata, Statistics	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document , Map
+8	Land Degradation	1:50000	2015 - 2016	Metadata, Statistics	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document , Map
+9	Urban Land Use: NUIS	1:10000	2006-07	Metadata	WMTS: "https://bhuvan-vec1.nrsc.gov.in/bhuvan/nuis/gwc/service/wmts"
+WMS: "https://bhuvan-vec1.nrsc.gov.in/bhuvan/nuis/wms"	Technical Document , Map
+10	Wasteland	1:50000	2008-09	Statistics, Analysis, Query Shell, Metadata	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document , Map
+11	Wasteland	1:50000	2015-16	Statistics, Analysis, Query Shell, Metadata	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document , Map
+12	Glacial Lakes/Waterbodies	1:250000	Indian Himalayas	Metadata	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document
+13	Geomorphology	1:50000	2005-06	Metadata	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document , Map
+14	Lineament	1:50000		Metadata	WMTS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/gwc/service/wmts"
+WMS: "https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms"	Technical Document , Map
+15	Flood Hazard	1:250000	Derived from data aquired during floods: 1998-2007	Statistics, Analysis, Metadata	WMS: "https://bhuvan-ras2.nrsc.gov.in/cgi-bin/hazard.exe"	Technical Document , Map
+16	Flood Annual Layers	1:250000	1999 - 2010	Metadata	WMS: "https://bhuvan-ras2.nrsc.gov.in/cgi-bin/flood.exe"	Technical Document , Map
+17	Urban Sprawl		2005-2006, 2011-12 (5 States)	Visualization		-
+

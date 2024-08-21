@@ -1,0 +1,20 @@
+Website - Bhuvan Integrated Watershed Management Programme - Spatial Rehabilitation Information System & Holistic Total Information
+Website URL - https://bhuvan-app1.nrsc.gov.in/iwmp/
+Website Content Details - 
+Bhuvan is a web-based Geographic Information System (GIS) application developed by the Indian Space Research Organisation (ISRO) specifically for monitoring and evaluation of watersheds in India.
+
+The Bhuvan platform plays a crucial role in the Integrated Watershed Management Programme (IWMP) initiated by the Department of Land Resources (DOLR), Ministry of Rural Development, Government of India. The IWMP aims to restore ecological balance by conserving and developing degraded natural resources like soil, water, and vegetation in a holistic manner.
+
+Bhuvan's IWMP application, also known as SRISHTI (Spatial Rehabilitation Information System & Holistic Total Information), provides a comprehensive suite of tools and functionalities for:
+
+Visualization: Users can view high-resolution satellite images, maps, and other relevant data layers for any watershed in India. This allows for visual assessment of changes in land use, water bodies, vegetation cover, and other physical attributes over time.
+Monitoring: Bhuvan enables tracking of various physical and socio-economic parameters related to watershed health. This includes data on rainfall, soil moisture, groundwater levels, agricultural yields, and socio-economic indicators like poverty and literacy rates.
+Evaluation: Bhuvan facilitates analysis of the impact of implemented watershed management interventions. Users can compare pre- and post-intervention data to assess the effectiveness of various soil and water conservation measures, afforestation programs, and other initiatives.
+Reporting: Bhuvan generates comprehensive reports on various aspects of watershed management, including project progress, resource utilization, and impact assessment. These reports are valuable for planning, monitoring, and decision-making purposes.
+Key features of Bhuvan IWMP-SRISHTI:
+
+Satellite remote sensing data: Bhuvan provides access to a vast archive of satellite data from various Indian and foreign satellites. This data is used for various purposes, including land cover mapping, vegetation monitoring, and flood inundation mapping.
+Field data collection: Bhuvan integrates with mobile apps for collecting field data on various parameters like soil moisture, groundwater levels, and crop yields. This data provides ground truth for satellite data analysis and improves the accuracy of monitoring and evaluation.
+Geospatial analysis tools: Bhuvan offers a range of geospatial analysis tools for tasks such as calculating drainage patterns, analyzing soil erosion risk, and modeling hydrological processes.
+Role-based access control: Bhuvan provides different levels of access to users based on their roles and responsibilities. This ensures that only authorized personnel have access to sensitive data.
+Bhuvan IWMP-SRISHTI has emerged as a powerful tool for promoting sustainable watershed management practices in India. By providing timely and accurate information, Bhuvan empowers stakeholders at all levels to make informed decisions and track the progress of watershed development initiatives.

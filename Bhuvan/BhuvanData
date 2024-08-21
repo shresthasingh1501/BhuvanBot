@@ -1,0 +1,127 @@
+Website - NRSC/ISRO Open data and product archive (National Remote Sensing Centre) (Indian Space Research Organisation)
+Website URL- https://bhuvan-app3.nrsc.gov.in/data/download/index.php
+Website Content Description - 
+Users can select , browser and download data for the following from this portal 
+Satellite/Sensor - 1)Resourcesat-1/Resource-2:LISS-III (This data is received from Linear Imaging and Self Scanning Sensor (LISS) which operates in three spectral bands in VNIR and one band in SWIR with 24 metre spatial resolution and a swath of 141 km.)
+2)IMS-1 : Hyperspectral Imager (HySi) (This data is received from IMS1, HySI which operates in 64 spectral bands in VNIR bands(400-900nm) with 500 meter spatial resolution and swath of 128 kms.)
+3) Oceansat-2 : OCM (Oceansat-2 portal is being upgraded for better facilities. OCM GAC products can be provided to users through ftp mode. The requirements can be mailed to sivannarayana_t@nrsc.gov.in or o2dps@nrsc.gov.in
+Sorry for the inconvenience caused.)
+4)Cartosat-1(ALL versions)(The Cartosat-1 Digital Elevation Model (CartoDEM) is a National DEM developed by the Indian Space Research Organization (ISRO). It is derived from the Cartosat-1 stereo payload launched in May 2005.)
+5)Resourcesat-1/Resourcesat-2:AWiFS (This data is received from Advanced Wide Field Sensor (AWiFS) which operates in three spectral bands in VNIR and one band in SWIR with 56 metre spatial resolution and a combined swath of 730 km achieved through two AWiFS cameras.)
+6)SCATSAT-1:Scatterometer (SAGAR portal is being upgraded for better facilities. SCATSAT-1 Scatterometer products can be provided to users through ftp mode. The requirements can be mailed to sivannarayana_t@nrsc.gov.in or o2dps@nrsc.gov.in.
+Sorry for the inconvenience caused.)
+
+Additional Data that can be accessed from this website 
+Select Project :         
+ISRO Geosphere-Biosphere Programme (IGBP)
+
+
+Select Group:             
+Above Ground Biomass (AGB) Data
+
+
+Select Product :         
+Achanakmar 100m
+
+The dataset contains forest aboveground biomass prediction maps derived from field inventory plot and airborne LiDAR data over five sites in South Asia, together with prediction uncertainty maps. The visualization of Indian AGB maps at 100m spatial resolution is facilitated. The AGB maps for all five sites are available to be downloaded at 100m and 40m spatial resolution. The dataset is associated with the following publication, where details on underlying data and map generation process can be found: Suraj R. Rodda et al., LiDAR-based reference aboveground biomass maps for tropical forests of South Asia and Central Africa. Submitted to Scientific Data.
+
+Select Project :         
+National Information System for Climate and Environment Studies (NICES)
+
+
+Select Group:             
+Terrestrial Sciences
+
+
+Select Product :         
+Annual Cropland Data set
+
+The annual cropland products were the integrated outcome of the Land use land cover (LULC) output generated at 56m resolution under National Level LULC mapping on 1: 2,50,000 scale using multi-temporal AWiFS project. The study involved use of multi temporal AWiFS data covering Kharif (Aug –Nov), Rabi (Jan- Mar), Zaid (April- May) seasons to address spatial and temporal variability in cropping pattern and other land cover classes.
+Select Project :         
+National Information System for Climate and Environment Studies (NICES)
+
+
+Select Group:             
+Terrestrial Sciences
+
+
+Select Product :         
+AWiFS: Snow Albedo
+
+Broad band Snow albedo is an important geophysical parameter for studies related to weather, climate, and hydrometeorology and so on. Snow has the highest albedo in nature and hence has a significant influence on surface energy budget and on Earth's radiative balance.
+Select Project :         
+National Information System for Climate and Environment Studies (NICES)
+
+
+Select Group:             
+Terrestrial Sciences
+
+
+Select Product :         
+AWiFS: Water Bodies Fraction
+
+Water Bodies consists of all surface water bodies viz. reservoirs, irrigation tanks, lakes, ponds, and rivers / streams. The area under water bodies is dynamic in natures and hence multi-temporal satellite data was used for monitoring. An automated extraction algorithm developed is used for quick processing of satellite data acquired from Resourcesat -1, Resourcesat-2 AWiFS sensors (56m spatial resolution) which enables the generation of water body layer.
+Select Project :         
+National Information System for Climate and Environment Studies (NICES)
+
+
+Select Group:             
+Terrestrial Sciences
+
+
+Select Product :         
+Forest Fire Regime
+
+Fire regime over India was analysed using the MODIS fire record from 2003 to 2017.The analysis used AQUA MODIS daytime fires for the 2003 - 2017 time period. Only detections with a detection confidence of over 10% and flagged as forest by using the NRSC forest fraction layer were used in the analysis.
+
+Select Project :         
+National Information System for Climate and Environment Studies (NICES)
+
+
+Select Group:             
+Terrestrial Sciences
+
+
+Select Product :         
+Forest Fraction Cover
+
+The status of global forest cover has large uncertainty for several continents on earth owing to the paucity of comprehensive studies related to long term forest cover change. The aim of the present work is to prepare a nation-wide multi-date forest cover database which describes and quantifies historical changes in forests of India.
+
+Select Project :         
+National Information System for Climate and Environment Studies (NICES)
+
+
+Select Group:             
+Terrestrial Sciences
+
+
+Select Product :         
+Forest Type 5Km grid
+
+Vegetation classification is a prerequisite for understanding carbon stocks, biodiversity, sustainable use of natural resources and global change. This study has classified forest types of India based on multi-season Resourcesat-2 Advanced Wide Field Sensor (AWiFS) data of 2013.
+Select Project :         
+National Information System for Climate and Environment Studies (NICES)
+
+
+Select Group:             
+Terrestrial Sciences
+
+
+Select Product :         
+Indian Soil Datasets
+
+Soil properties ( soil depth, soil texture, soil carbon) are important for their key role in supporting ecosystem services, plant growth, water availability and maintaining carbon stocks. Soil depth is defined as the depth (in cm) to a lithic or paralithic contact (USDA Soil Survey Manual). Soil texture in dicates the relative content of particles of various sizes, such as sand, silt and clay in the soil. Texture influences the ease with which soil can be worked, the amount of water and air it holds, and the rate at which water can enter and move through soil. Inventories of soil carbon stocks are needed to assess the possible impacts of global climate change on soil organic , inorganic carbon content in relation to potential green house gas emissions.
+Select Project :         
+National Information System for Climate and Environment Studies (NICES)
+
+
+Select Group:             
+Terrestrial Sciences
+
+
+Select Product :         
+Land Degradation
+
+The information on land degradation is needed for a variety of purposes like planning reclamation programs, rational land use planning, for bringing additional areas into cultivation and also to improve productivity levels in degraded lands.Synoptic coverage in narrow and discrete spectral bands provided by space borne sensors at regular interval enabled inventorying degraded land and monitoring their temporal behavior at operational level.
+
+

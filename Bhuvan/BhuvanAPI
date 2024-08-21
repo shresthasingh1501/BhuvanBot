@@ -1,0 +1,28 @@
+Website - BhuvanAPI
+Webiste URL - https://bhuvan-app1.nrsc.gov.in/api
+Website Content Description - 
+Bhuvan API is a set of web services that provide access to geospatial data and services from the National Remote Sensing Centre (NRSC), India. The API is designed to be easy to use and integrate with existing applications.
+
+The API provides access to a variety of data and services, including:
+
+Proximity: This service allows you to find nearby points of interest, such as postal offices, hospitals, and schools.
+Geocoding: This service allows you to convert between addresses and geographic coordinates.
+Thematic statistics: This service provides statistics on land use, land cover, and other themes.
+Routing: This service allows you to find the shortest path between two points.
+To use the Bhuvan API, you need to create an account and obtain an access token. Once you have an access token, you can use it to authenticate your requests to the API.
+
+The Bhuvan API is a powerful tool that can be used to integrate geospatial data into a variety of applications. It is a valuable resource for developers, businesses, and organizations that need to access geospatial data.
+
+Here are some examples of how the Bhuvan API can be used:
+
+A mobile app that helps users find nearby businesses or services.
+A web application that visualizes land use data.
+A routing application that helps users find the shortest path between two points.
+The Bhuvan API is available for free to developers. To learn more about the API, visit the Bhuvan website.
+
+Here are some specific examples of how the Bhuvan API can be used in India:
+
+A developer could use the proximity service to find nearby restaurants, shops, or tourist attractions.
+A business could use the geocoding service to create a map of their customers or suppliers.
+A government agency could use the thematic statistics service to track changes in land use over time.
+The Bhuvan API is a valuable resource for developers and organizations in India and other parts of India. It provides access to a wide range of geospatial data and services that can be used to create innovative and informative applications.

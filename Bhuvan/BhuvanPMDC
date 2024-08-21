@@ -1,0 +1,35 @@
+Website - Bhuvan PDMC (Per Drop More Crop)
+Website URL - https://bhuvan-app1.nrsc.gov.in/pdmc/
+Website Content Details -
+ Bhuvan PDMC is a website and smartphone app combination designed to facilitate the geo-tagging of assets created under the Pradhan Mantri Krishi Sinchayee Yojana - Per Drop More Crop (PMKSY-PDMC) scheme. This scheme focuses on improving water use efficiency in Indian agriculture through micro-irrigation systems, efficient water conveyance, and precision irrigation technologies.
+
+Website (bhuvan-app1.nrsc.gov.in/pdmc):
+
+Home: The central hub provides an overview of the portal, user login options (citizen or authorized officer), and access to important tools and resources.
+Field Data Viewer: This interactive map interface allows users to:
+Visualize assets: Filter and view the location of micro-irrigation structures (check dams, farm ponds, borewells, etc.) and other interventions undertaken under PDMC across India.
+Map layers: Overlay various thematic layers like satellite imagery, administrative boundaries, water bodies, and infrastructure.
+Details on hover: Clicking on an asset reveals its type, location coordinates, date of creation, implementing agency, and photos/info if available.
+Download data: Export asset data in Excel format for further analysis.
+Profile: Authorized officers can access their profile management and data submission section.
+Dashboard: Offers summary statistics on the number of assets created, funding allocated, and scheme coverage across various states and districts.
+Tools: Provides additional functionalities like measuring distances and areas, adding user-defined layers, and navigating the map.
+Resources: A library of documents and manuals related to Bhuvan PDMC, user guidelines, and FAQs.
+Discussion Forum: A platform for authorized officers to interact and discuss technical aspects of data collection and scheme implementation.
+Mobile App (Bhuvan PDMC APK):
+
+Designed for field officers responsible for data collection.
+Allows capturing GPS coordinates and basic information about newly created PDMC assets.
+Uploads captured data to the Bhuvan PDMC website for centralized storage and analysis.
+Benefits of Bhuvan PDMC:
+
+Transparency and accountability: Provides real-time information on asset location and utilization, ensuring transparency in scheme implementation.
+Improved monitoring and evaluation: Facilitates tracking progress, identifying gaps, and evaluating the effectiveness of the PMKSY-PDMC scheme.
+Data-driven decision making: Aids in planning future interventions, allocating resources efficiently, and targeting areas with the greatest need for improvements in water management.
+Enhanced coordination: Fosters communication and collaboration between implementing agencies and stakeholders.
+Challenges and Future Possibilities:
+
+Data accuracy and completeness: Ensuring consistent and reliable data entry by field officers remains a crucial challenge.
+Offline functionality: Expanding app capabilities to work offline in areas with limited internet connectivity would improve data collection efficiency.
+Advanced analytics: Integrating advanced geospatial analysis tools can unlock deeper insights from the collected data.
+Overall, Bhuvan PDMC plays a vital role in the successful implementation and monitoring of the PMKSY-PDMC scheme. Its potential to revolutionize water management in Indian agriculture through data-driven decision making and transparency is immense.

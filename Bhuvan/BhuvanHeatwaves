@@ -1,0 +1,32 @@
+Website - Bhuvan Hot Weather Outlook 
+Website URL - https://bhuvan-app1.nrsc.gov.in/heatwave/
+Website Content Details -
+Bhuvan Heatwave website is a platform developed by the National Remote Sensing Centre (NRSC) of India to provide information and forecasts related to heatwaves in the country. Here's a breakdown of the website and its features:
+
+Homepage:
+
+The homepage features a map of India with color-coded districts indicating the heatwave severity based on the Temperature-based Heat Index (TBHI).
+A legend on the side explains the color coding, ranging from "Normal" (green) to "Extreme Heatwave" (red).
+You can zoom in and out of the map to focus on specific regions.
+Forecast:
+
+The "Forecast" section displays the forecasted TBHI for the next 3 days at the district level.
+You can select a specific district to see a detailed forecast for the next 3 days, including the maximum temperature, minimum temperature, and TBHI values.
+Heatwave Advisories:
+
+The "Heatwave Advisories" section provides advisories issued by the NRSC for districts experiencing or expected to experience heatwaves.
+These advisories typically include recommendations for staying safe during heatwaves, such as avoiding strenuous activity during the hottest part of the day, drinking plenty of fluids, and wearing loose, breathable clothing.
+Data Download:
+
+The "Data Download" section allows you to download gridded data of TBHI and other heatwave parameters for further analysis.
+This data can be used by researchers and other stakeholders to study heatwaves and their impacts.
+Additional Features:
+
+The website also includes a glossary of terms related to heatwaves, as well as links to other resources on heatwave preparedness and response.
+You can change the base map of the website to see different geographical features, such as roads, rivers, and mountains.
+Here are some additional details about the data and methodology used by the Bhuvan Heatwave website:
+
+The TBHI is calculated using a formula that takes into account the maximum temperature, humidity, and wind speed.
+The NRSC uses a combination of satellite data, ground observations, and numerical weather prediction models to generate heatwave forecasts.
+The website is updated daily with the latest heatwave information.
+Overall, the Bhuvan Heatwave website is a valuable resource for anyone who wants to stay informed about heatwaves in India. The website provides easy-to-understand information and forecasts that can help people stay safe during hot weather events.
